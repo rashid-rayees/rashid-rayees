@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate software engineering and data science student who enjoys turning ideas into practical solutions through code. My interests lie in full-stack development, backend systems, data analytics, and machine learning. I have experience working with technologies such as C++, Python, JavaScript, React, Node.js, MySQL, and MongoDB, and I am always eager to learn new tools and frameworks. I believe in continuous learning, building meaningful projects, and using technology to solve real-world problems while growing as a developer and future engineer.
+I am a passionate software engineering and Artificial Intelligence student who enjoys turning ideas into practical solutions through code. My interests lie in full-stack development, backend systems, data analytics, and machine learning. I have experience working with technologies such as C++, Python, JavaScript, React, Node.js, MySQL, and MongoDB, and I am always eager to learn new tools and frameworks. I believe in continuous learning, building meaningful projects, and using technology to solve real-world problems while growing as a developer and future engineer.
 
 
 ## 🌐 Socials:
